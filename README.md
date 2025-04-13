@@ -38,7 +38,7 @@ AWS (EC2, S3, IAM), GitHub Actions, Netlify, GitHub Pages
 ### 📫 Let's Connect
 
 - 📧 Email: [ssikkem@ualr.edu](mailto:ssikkem@ualr.edu)  
-- 💼 LinkedIn: [linkedin.com/in/saikarthiksikkem](https://www.linkedin.com/in/saikarthiksikkem)  
+- 💼 LinkedIn: www.linkedin.com/in/sai-karthik-33a94918b
 - 🌐 Portfolio: https://karthik18183.github.io/karthik-portfolio/
 
 ---
