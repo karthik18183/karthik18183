@@ -11,8 +11,8 @@
 ### 🧠 About Me
 
 - 💡 Master's in Information Science @ UALR (Expected Graduation: May 2025)
-- 🧪 4+ years of experience in software testing (UI + API), development & automation
-- 🔧 Hands-on with Selenium, Postman, Node.js, React, MongoDB, SQL, Git, and REST APIs
+- 🧪 4+ years of experience in software industry development, testing (UI + API) & automation
+- 🔧 Hands-on with HTML, CSS, Java, JavaScript, Selenium, Postman, Node.js, React, MongoDB, SQL, Git, and REST APIs
 - 🖥 Supporting IT services at CSTEM, improving response times and resolving campus tech issues
 - 📈 Researcher exploring **Topological Data Analysis (TDA)** for image segmentation & traffic analysis
 - ✈️ Techie who enjoys travel, photography, and blogging
@@ -25,7 +25,7 @@
 JavaScript, TypeScript, Python, Java, HTML/CSS, Node.js, React.js, Express.js
 
 **Testing & Automation**  
-Selenium (Java & Python), Postman, JUnit, PyTest, Mocha/Chai
+Selenium (Java & Python), Postman, JUnit
 
 **Databases & Tools**  
 MongoDB, MySQL, Git, GitHub, REST APIs, VS Code, Figma
@@ -39,7 +39,7 @@ AWS (EC2, S3, IAM), GitHub Actions, Netlify, GitHub Pages
 
 - 📧 Email: [ssikkem@ualr.edu](mailto:ssikkem@ualr.edu)  
 - 💼 LinkedIn: [linkedin.com/in/saikarthiksikkem](https://www.linkedin.com/in/saikarthiksikkem)  
-- 🌐 Portfolio: *Coming soon on GitHub Pages*
+- 🌐 Portfolio: https://karthik18183.github.io/karthik-portfolio/
 
 ---
 
